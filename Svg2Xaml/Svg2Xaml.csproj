@@ -178,7 +178,7 @@
     <Compile Include="SvgUseElement.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="COPYING">
+    <None Include="COPYING.LESSER">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="ScheugenpflugSvgXamlKey.pfx" />
@@ -191,6 +191,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <None Include="COPYING" />
     <Content Include="ReleaseNotes.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

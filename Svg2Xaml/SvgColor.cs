@@ -3,6 +3,7 @@
 //  SvgColor.cs - This file is part of Svg2Xaml.
 //
 //    Copyright (C) 2009 Boris Richter <himself@boris-richter.net>
+//    Copyright (C) 2018 Scheugenpflug AG <http://www.scheugenpflug.de>
 //
 //  --------------------------------------------------------------------------
 //
@@ -21,9 +22,9 @@
 //
 //  --------------------------------------------------------------------------
 //
-//  $LastChangedRevision: 18569 $
-//  $LastChangedDate: 2009-03-18 14:05:21 +0100 (Wed, 18 Mar 2009) $
-//  $LastChangedBy: unknown $
+//  $LastChangedDate: 2018-09-03 $
+//  $LastChangedBy: Scheugenpflug AG, Thomas Stüven $
+//  $LastChange: Bugfix for Colorconversion $
 //
 ////////////////////////////////////////////////////////////////////////////////
 using System;

@@ -3,6 +3,7 @@
 //  SvgDrawableBaseElement.cs - This file is part of Svg2Xaml.
 //
 //    Copyright (C) 2009 Boris Richter <himself@boris-richter.net>
+//    Copyright (C) 2018 Scheugenpflug AG <http://www.scheugenpflug.de>
 //
 //  --------------------------------------------------------------------------
 //
@@ -21,9 +22,9 @@
 //
 //  --------------------------------------------------------------------------
 //
-//  $LastChangedRevision: 25245 $
-//  $LastChangedDate: 2009-06-19 13:33:47 +0200 (Fri, 19 Jun 2009) $
-//  $LastChangedBy: unknown $
+//  $LastChangedDate: 2018-09-03 $
+//  $LastChangedBy: Scheugenpflug AG, Thomas Stüven $
+//  $LastChange: Bugfix attributes with whitespaces $
 //
 ////////////////////////////////////////////////////////////////////////////////
 using System;
