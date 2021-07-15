@@ -85,7 +85,7 @@
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>ScheugenpflugSvgXamlKey.pfx</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>ScheugenpflugSvgXamlKey.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="PresentationCore">
@@ -181,7 +181,7 @@
     <None Include="COPYING.LESSER">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="ScheugenpflugSvgXamlKey.pfx" />
+    <None Include="ScheugenpflugSvgXamlKey.snk" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
